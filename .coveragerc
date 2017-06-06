@@ -1,0 +1,3 @@
+[run]
+source = gaadiworld
+omit = gaadiworld/test*
